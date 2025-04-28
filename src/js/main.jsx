@@ -62,4 +62,4 @@ setInterval(() => {
     </React.StrictMode>,
   )
   uno++
-}, 10); 
+}, 1000); 
